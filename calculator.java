@@ -1,4 +1,3 @@
-
 import javax.swing.*;
 import java.awt.event.*;
  
@@ -14,7 +13,7 @@ static int operator=0;
  
 Calc()
 {
-f=new JFrame("Calculator");
+f=new JFrame("Calculator ni Taug");
 t=new JTextField();
 b1=new JButton("1");
 b2=new JButton("2");
